@@ -32,6 +32,8 @@ public class Arrays_Bidimensionales_III {
 				System.out.printf("%1.2f", saldo [z][h]);
 				
 				System.out.print(" ");
+				
+				System.out.println("Hola mundo");
 			}
 		}
 	}
